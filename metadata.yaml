@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/367
     wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17412#The-Bobbsey-Twins--13-Or-Merry-Days-Indoors-and-Out
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-12-28'
 gutenberg_type: Text
